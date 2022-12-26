@@ -4,8 +4,6 @@
 
 This project is a template starter for GoLang & React.
 
-<br>
-
 ### Frontend Quick start
 
 1.  Clone this repo using `git clone https://github.com/mohamedsamara/golang-react.git`
