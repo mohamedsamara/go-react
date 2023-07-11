@@ -1,4 +1,4 @@
-module github.com/mohamedsamara/golang-react
+module github.com/mohamedsamara/go-react
 
 go 1.17
 
